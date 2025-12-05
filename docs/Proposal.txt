@@ -1,0 +1,6 @@
+Gev Chalikyan
+Haider Sharik
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+
+For our project, we will be analyzing the relationship between various attributes of the dataset linked above, such as year, fuel, km_driven, seller_type, transmission, and owner, with the actual sale price of various car models in order to build a model to predict the likely sale price of another given car given these same predicting variables.
